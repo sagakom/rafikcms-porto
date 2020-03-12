@@ -101,11 +101,11 @@ sections:
   section_id: cta
   background_style: style4
   actions:
-  - label: Activate
+  - label: Aktvasi
     url: "/generic"
     is_scrolly: false
     is_primary: true
-  - label: Learn More
+  - label: Lebih lanjut
     url: "/generic"
     is_scrolly: false
     is_primary: false
