@@ -54,7 +54,7 @@ sections:
       Mauris eleifend fringilla nullam aenean mi ligula.
     home_img_path: images/pic02.jpg
   - title: Rachmad Rofik bersama Presiden Jokowi
-    text: Rachmad Rofik bersama Presiden Jokowi
+    text: Rachmad Rofik bersama Presiden Jokowi, Agustus 2019.
     home_img_path: "/images/home-about-section.jpg"
   component: spotlights.html
 - type: features
