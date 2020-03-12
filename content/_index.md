@@ -58,7 +58,7 @@ sections:
       sed condimentum
     text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
       Mauris eleifend fringilla nullam aenean mi ligula.
-    home_img_path: images/pic03.jpg
+    home_img_path: "/images/home-about-section.jpg"
   component: spotlights.html
 - type: features
   template: features
