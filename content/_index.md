@@ -53,11 +53,8 @@ sections:
     text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
       Mauris eleifend fringilla nullam aenean mi ligula.
     home_img_path: images/pic02.jpg
-  - title: |-
-      Augue eleifend aliquet
-      sed condimentum
-    text: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet.
-      Mauris eleifend fringilla nullam aenean mi ligula.
+  - title: Rachmad Rofik bersama Presiden Jokowi
+    text: Rachmad Rofik bersama Presiden Jokowi
     home_img_path: "/images/home-about-section.jpg"
   component: spotlights.html
 - type: features
